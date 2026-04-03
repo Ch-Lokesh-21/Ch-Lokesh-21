@@ -20,7 +20,7 @@
 - 💼 Ex-Intern @ Genworx.AI | Celebal Technologies | APCOB  
 - 🧠 Strong in Full Stack + Machine Learning  
 - 📫 Reach me: **lokeshchirumamilla2104@gmail.com**  
-- <img src="https://img.icons8.com/?size=100&id=121324&format=png&color=000000" height="25"/> [Resume](https://drive.google.com/file/d/1Sj4yfuWRC0J6p6rSjXe0tAjyJ9v9CBpY/view?usp=drive_link)
+- 📄 [Resume](https://drive.google.com/file/d/1Sj4yfuWRC0J6p6rSjXe0tAjyJ9v9CBpY/view?usp=drive_link)
 
 ---
 
@@ -68,10 +68,4 @@
 ---
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" />
-</p>
-
---- 
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
