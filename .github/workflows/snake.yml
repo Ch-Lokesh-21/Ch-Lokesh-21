@@ -1,27 +1,32 @@
-name: Generate Snake
+name: Generate Neon Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */23 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write   
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Generate Neon Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Ch-Lokesh-21
+
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+
+          color_snake: "#00F5FF"
+          color_dots: "#0f2027,#203a43,#2c5364,#00F5FF,#00FFFF"
 
       - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3   # ✅ NEW (stable)
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: dist
