@@ -20,7 +20,7 @@
 - 💼 Ex-Intern @ Genworx.AI | Celebal Technologies | APCOB  
 - 🧠 Strong in Full Stack + Machine Learning  
 - 📫 Reach me: **lokeshchirumamilla2104@gmail.com**  
-- 📄 [Resume](https://drive.google.com/file/d/1Sj4yfuWRC0J6p6rSjXe0tAjyJ9v9CBpY/view?usp=drive_link)
+- 📄 [Resume](https://drive.google.com/file/d/15e1zuV6U4GFF9wO2WNfn4RSi1HE6xhkC/view?usp=sharing)
 
 ---
 
